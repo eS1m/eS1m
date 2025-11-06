@@ -1,7 +1,7 @@
 # Hi, I'm Evan Daniel Simbajon! 👋
 
 I am a passionate IT student at STI College, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-![<eS1m>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![eS1m's Stats](https://github-readme-stats.vercel.app/api?username=eS1m&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University.
